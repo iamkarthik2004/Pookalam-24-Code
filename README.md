@@ -2,4 +2,4 @@
 Code a Pookalam 24'
 
 My Virtual Pookalam Using Python Mon's School
-Link: Link: https://mon.school/sketches/1778401
+Link: https://mon.school/sketches/1778401
