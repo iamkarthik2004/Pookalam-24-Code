@@ -1,0 +1,48 @@
+#Mon's School Python Pookkalam Code
+
+#1st line brown color
+m=color(r=132,g=0,b=0)
+rec=rectangle(h=210,w=210,fill=m,stroke="None")|repeat(60,rotate(20)) 
+show(rec) 
+
+#2nd line orange color
+c=circle(r=143,fill='orange', stroke='orange')
+show(c)
+
+#3rd line #4590b5 color
+rec=rectangle(w=200,h=200,fill='#4590b5', stroke='snow') | repeat(60,rotate(40))
+show(rec)
+
+#4th line yellow color
+rect=rectangle(w=185,h=185,fill='yellow', stroke='yellow') | rotate(45)
+rect=rect | repeat(60,rotate(40))
+show(rect)
+
+#5th line rectanglular shaped #b5456e color
+rect=rectangle(w=160,h=160,fill='#b5456e', stroke='gold') | repeat(35,rotate(45))
+rect=rect | repeat(60,rotate(40))
+show(rect)
+
+#6th green circle
+s=circle(r=75,fill='green', stroke='none')
+show(s)
+#7th line ellipse petals
+ellp=ellipse(h=140,w=20,fill="orange",stroke="none")|repeat(35,rotate(50))
+show(ellp) 
+#8th line red petals (rectangle)
+rec1=rectangle(w=100,h=70,fill='red', stroke='red') | repeat(60,rotate(40))
+show(rec1)
+#9th line
+rec2=rectangle(w=60,h=100,fill='gold', stroke='gold') | repeat(60,rotate(40))
+show(rec2)
+#10th line middle design
+shape=ellipse(h=90,w=20,fill="none",stroke="red")|repeat(55,rotate(50))
+show(shape)
+#11th line blue design ellipse
+shape=ellipse(h=12,w=54,fill="none",stroke="blue")|repeat(55,rotate(50))
+show(shape)
+
+    
+print("എവർക്കും ഓണാശംസകൾ......")
+print("KARTHIK KRISHNAN")
+print("SJCET PALAI")
